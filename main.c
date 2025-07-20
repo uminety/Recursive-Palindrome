@@ -1,4 +1,3 @@
-// This is an academic exercise about recursive functions
 #include <stdio.h>
 #include <stdbool.h>
 #include <stdlib.h>
